@@ -1,2 +1,0 @@
-# DeepLearning
-ディープラーニング演習
